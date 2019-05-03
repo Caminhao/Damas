@@ -1,0 +1,17 @@
+.tabulero {
+    width: 800px;
+    height: 800px;
+    border: 25px solid rgb(0, 0, 0);
+}
+.joelson {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(83, 41, 17);
+}
+.juquinha {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(224, 135, 52);
+}
